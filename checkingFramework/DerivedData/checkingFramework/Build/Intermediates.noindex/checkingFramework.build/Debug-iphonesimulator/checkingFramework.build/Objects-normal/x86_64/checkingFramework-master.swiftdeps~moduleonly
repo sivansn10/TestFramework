@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "d626bc86b0c1f0748f82cce7339bb2ae"
+build_time: [1538555150, 949993000]
+inputs:
+  "/Users/czltd/Desktop/Siva_Learning/TestFramework/checkingFramework/checkingFramework/ViewController.swift": !dirty [1538554287, 0]
+  "/Users/czltd/Desktop/Siva_Learning/TestFramework/checkingFramework/checkingFramework/AppDelegate.swift": !dirty [1538549913, 0]

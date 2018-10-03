@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/czltd/Desktop/Siva_Learning/TestFramework/TestFramework/DerivedData/TestFramework/Build/Products/Debug-iphonesimulator/TestFramework.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "TestFramework-Swift.h",
+          'external-contents': "/Users/czltd/Desktop/Siva_Learning/TestFramework/TestFramework/DerivedData/TestFramework/Build/Products/Debug-iphonesimulator/TestFramework.framework/Headers/TestFramework-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "TestFramework.h",
+          'external-contents': "/Users/czltd/Desktop/Siva_Learning/TestFramework/TestFramework/TestFramework/TestFramework.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/czltd/Desktop/Siva_Learning/TestFramework/TestFramework/DerivedData/TestFramework/Build/Products/Debug-iphonesimulator/TestFramework.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/czltd/Desktop/Siva_Learning/TestFramework/TestFramework/DerivedData/TestFramework/Build/Intermediates.noindex/TestFramework.build/Debug-iphonesimulator/TestFramework.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

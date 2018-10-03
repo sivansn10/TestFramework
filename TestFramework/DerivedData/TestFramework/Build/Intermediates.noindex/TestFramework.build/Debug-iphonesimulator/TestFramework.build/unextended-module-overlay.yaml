@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/czltd/Desktop/Siva_Learning/TestFramework/TestFramework/DerivedData/TestFramework/Build/Products/Debug-iphonesimulator/TestFramework.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/czltd/Desktop/Siva_Learning/TestFramework/TestFramework/DerivedData/TestFramework/Build/Intermediates.noindex/TestFramework.build/Debug-iphonesimulator/TestFramework.build/unextended-module.modulemap',
+    }]
+  }]
+}

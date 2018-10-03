@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "b02e133ceb56f5cdfcd9153260ed271e"
+build_time: [1538553912, 840291000]
+inputs:
+  "/Users/czltd/Desktop/Siva_Learning/TestFramework/TestFramework/TestFramework/Service.swift": [1538114486, 0]
