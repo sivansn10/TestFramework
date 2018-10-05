@@ -1,0 +1,22 @@
+{
+  "name": "TestFramework",
+  "version": "1.0.0",
+  "summary": "This is such a good Test Frameweok.",
+  "description": "This is super test framework to create cocoapods",
+  "homepage": "https://github.com/sivansn10/TestFramework",
+  "license": "MIT",
+  "authors": {
+    "Siva_Ns": "sivansn10@gmail.com"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source": {
+    "git": "https://github.com/sivansn10/TestFramework.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "TestFramework",
+    "TestFramework/**/*.{h,m,swift}"
+  ]
+}

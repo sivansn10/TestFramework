@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "84be30d5db5a7d869ac0cd291bde6f66"
+build_time: [1538720230, 666173000]
+inputs:
+  "/Users/czltd/Desktop/Siva_Learning/TestFramework/checkFramework/checkFramework/ViewController.swift": [1538720230, 0]
+  "/Users/czltd/Desktop/Siva_Learning/TestFramework/checkFramework/checkFramework/AppDelegate.swift": [1538547544, 0]

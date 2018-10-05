@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>5373E69A-1585-4E86-A555-D1AEF65DDFCF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>5373E69A-1585-4E86-A555-D1AEF65DDFCF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>checkFramework-gcvepuyfvxitlxbqbfsgeqsmkcrx</string>
+			<key>timeStartedRecording</key>
+			<real>560413030.66208398</real>
+			<key>timeStoppedRecording</key>
+			<real>560413032.01658499</real>
+			<key>title</key>
+			<string>Build target checkFramework</string>
+			<key>uniqueIdentifier</key>
+			<string>5373E69A-1585-4E86-A555-D1AEF65DDFCF</string>
+		</dict>
+		<key>5C5723A3-7E78-4597-BB21-BE1CBEACCB96</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>5C5723A3-7E78-4597-BB21-BE1CBEACCB96.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>Pods-checkFramework-fxlbbrlzwiwvincgiiveimmuayeo</string>
+			<key>timeStartedRecording</key>
+			<real>560412956.08482003</real>
+			<key>timeStoppedRecording</key>
+			<real>560412956.58853805</real>
+			<key>title</key>
+			<string>Build target Pods-checkFramework</string>
+			<key>uniqueIdentifier</key>
+			<string>5C5723A3-7E78-4597-BB21-BE1CBEACCB96</string>
+		</dict>
+		<key>F810785D-F111-45A3-AD24-0544BC9D3060</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>F810785D-F111-45A3-AD24-0544BC9D3060.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>TestFramework-fxlbbrlzwiwvincgiiveimmuayeo</string>
+			<key>timeStartedRecording</key>
+			<real>560412956.08564496</real>
+			<key>timeStoppedRecording</key>
+			<real>560412956.50897396</real>
+			<key>title</key>
+			<string>Build target TestFramework</string>
+			<key>uniqueIdentifier</key>
+			<string>F810785D-F111-45A3-AD24-0544BC9D3060</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
